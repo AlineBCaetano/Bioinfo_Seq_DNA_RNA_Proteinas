@@ -4,12 +4,11 @@ Criação de pacote Python que integre APIs de bancos de dados de sequências de
 Projeto desenvolvido como parte dos estudo para a Comunidade PyLadies Bioinfo Brasil.
 
 
-**Objetivo do projeto:** 
+**Objetivo do projeto:**
 Desenvolver um pacote Python que permita a integração e consulta de APIs públicas de bancos de dados de sequências de DNA, RNA e proteínas, com foco em modularidade, reprodutibilidade e documentação clara.
 
 
-
-**Cronograma de atividades**:
+**Cronograma de atividades:**
 
 Semana 01 - 11/07/2025 - 15/11/25: 
 - Planejamento e escopo do projeto
